@@ -153,7 +153,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/phitranphitranphitran/regexp-saver.git"
+    "url": "https://github.com/fjc0k/regexp-saver-pro.git"
   },
   "lint-staged": {
     "**/*": "prettier --write --ignore-unknown"
