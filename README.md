@@ -1,6 +1,7 @@
-# regexp-saver
+# regexp-saver-pro
 
 Visual Studio Code extension for saving and re-using regular expressions while coding.
+Forked from [phitranphitranphitran/regexp-saver](https://github.com/phitranphitranphitran/regexp-saver.git).
 
 ## Features
 
